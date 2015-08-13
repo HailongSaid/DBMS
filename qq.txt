@@ -1,0 +1,10 @@
+2 20
+AttributeName     AttributeType     AttributeSize  
+name    String    10
+age    int    10
+liu  20   
+ hai  21   
+ long  23   
+ long  23   
+ long  23   
+ 

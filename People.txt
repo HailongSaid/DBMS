@@ -1,0 +1,12 @@
+People
+2 20
+AttributeName     AttributeType     AttributeSize  
+id    char    10
+age    int    10
+1000  10   
+ 1001  10   
+ 1002  10   
+ 1003  10   
+ 1004  10   
+ 1005  10   
+ 
